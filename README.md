@@ -2,10 +2,6 @@
 
 Here is the repo with KiCAD our projects with YuriCable PCB for Flipper Zero.
 
----
-
-**Please use official [external module guidelines](https://docs.flipperzero.one/ru/development/ext-modules) for new developments.**
-
 ## YuriCable PCB KiCAD
 
 ### ToDo's
