@@ -3,3 +3,4 @@
 *.lck
 gerbers
 /yuricable-backups
+fp-info-cache
