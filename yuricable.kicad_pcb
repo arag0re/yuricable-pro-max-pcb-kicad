@@ -5200,7 +5200,7 @@
       vLy8c3bPdT3/AzjCJDllAB6DAAAAAElFTkSuQmCC
     )
   )
-  (gr_text "YuriCable \nPro Max \nv1.1" (at 90.17 71.12) (layer "F.SilkS") (tstamp 00000000-0000-0000-0000-00005febc44d)
+  (gr_text "YuriCable \nPro Max \nv1.2" (at 90.17 71.12) (layer "F.SilkS") (tstamp 00000000-0000-0000-0000-00005febc44d)
     (effects (font (size 1.4 1.3) (thickness 0.3)))
   )
   (gr_text "10 11 12 13 14 15 16 17 18" (at 111.76 78.74) (layer "F.SilkS") (tstamp 00000000-0000-0000-0000-00005ff629a7)
